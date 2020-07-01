@@ -9,3 +9,4 @@ spring:
         max-wait: -1
         max-idle: 8
         min-idle: 0
+zooClientIp: 101.133.149.61:2181
